@@ -71,7 +71,7 @@ Here is a screenshot of the final deployed platform (Streamlit app):
 
 ![Final Demo](images/final_demo.png)
 
-*(Place the screenshot file in a folder called `images/` in your repo and rename it `final_demo.png`.)*
+
 
 ## Installation
 ```bash
