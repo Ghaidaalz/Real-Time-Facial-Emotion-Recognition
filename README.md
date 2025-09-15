@@ -103,7 +103,6 @@ pip install tensorflow opencv-python streamlit numpy matplotlib scikit-learn
 ├── Final-Application.ipynb
 ├── body_posture_recognition.ipynb
 ├── body-posture-recognition.ipynb - Colab.pdf
-├── models/                # (place trained models here)
 ├── images/                # (screenshots, demo images)
 └── README.md
 ```
